@@ -11,8 +11,8 @@ The **Crop Yield Predictor** is a Streamlit web application that leverages machi
 ---
 
 ## Snapshots
-![Project Screenshot](Final_proj/assets/interface-1.jpg)
-![Project Screenshot](Final_proj/assets/actualvspredicted.jpg)
+![Project Screenshot](FInal_proj/assets/interface-1.jpg)
+![Project Screenshot](FInal_proj/assets/actualvspredicted.jpg)
 
 ---
 
